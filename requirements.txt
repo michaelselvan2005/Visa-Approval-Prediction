@@ -16,10 +16,10 @@ dill
 PyYAML
 neuro_mf
 boto3
-mypy-boto-s3
+#mypy-boto-s3
 botocore
 fastapi
 uvicorn
 jinja2
-pythin-multipart
+#pythin-multipart
 -e .
